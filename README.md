@@ -11,10 +11,10 @@ Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.
 [<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
 
 ## Tools
-<kbd> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </kbd>
 <kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
-<kbd> ![Vivaldi](https://img.shields.io/badge/-Vivaldi-red?style=for-the-badge&logo=Vivaldi&logoColor=white) </kbd>
+<kbd> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </kbd>
 <kbd> ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) </kbd>
+<kbd> ![Vivaldi](https://img.shields.io/badge/-Vivaldi-red?style=for-the-badge&logo=Vivaldi&logoColor=white) </kbd>
 ## Experience
 <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
 <kbd> ![C](https://img.shields.io/badge/C-%234B275F.svg?style=for-the-badge&logo=C&logoColor=white) </kbd>
