@@ -1,8 +1,8 @@
-Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.dev/yxqsnz"/> 
+Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.dev/belchiorg"/> 
 ---
 ## Contact
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" align="right"
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=belchiorg&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" align="right"
      alt="Github stats" width="500">
 
 [<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
