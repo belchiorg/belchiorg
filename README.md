@@ -5,16 +5,16 @@ Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=belchiorg&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" align="right"
      alt="Github stats" width="500">
 
-[<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
 [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/615176567567548446)
 [<kbd>![Twitter](https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BelchiorTainted)
-[<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/yxqsnz)
+[<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
+[<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/a_ghost_m8)
 
 ## Tools
-<kbd> ![Vivaldi](https://img.shields.io/badge/-Vivaldi-red?style=for-the-badge&logo=Vivaldi&logoColor=white) </kbd>
 <kbd> ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) </kbd>
-<kbd> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </kbd>
+<kbd> ![Vivaldi](https://img.shields.io/badge/-Vivaldi-red?style=for-the-badge&logo=Vivaldi&logoColor=white) </kbd>
 <kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
+<kbd> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </kbd>
 ## Experience
 <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
 <kbd> ![C](https://img.shields.io/badge/C-%234B275F.svg?style=for-the-badge&logo=C&logoColor=white) </kbd>
