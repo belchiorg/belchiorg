@@ -7,7 +7,7 @@ Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.
 
 [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/615176567567548446)
 [<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/a_ghost_m8)
-[<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
+[<kbd>![Spotify](https://img.shields.io/badge/Spotify-25D366?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/e8e4zltinv57pl7bo7snudzi4?si=3bd01ce2fb1e4763)
 [<kbd>![Twitter](https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BelchiorTainted)
 
 ## Tools
