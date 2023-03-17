@@ -17,7 +17,7 @@ Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.
 <kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
 ## Experience
 <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
-<kbd> ![C](https://img.shields.io/badge/C-%234B275F.svg?style=for-the-badge&logo=C&logoColor=white) </kbd>
+<kbd> ![C](https://img.shields.io/badge/C-%1F9BFF5F.svg?style=for-the-badge&logo=C&logoColor=white) </kbd>
 <kbd> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) </kbd>
 <kbd> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </kbd>
 <kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
