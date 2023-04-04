@@ -6,7 +6,7 @@ Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.
      alt="Github stats" width="500">
 
 [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/615176567567548446)
-[<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/a_ghost_m8)
+[<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/belchiorinho)
 [<kbd>![Spotify](https://img.shields.io/badge/Spotify-25D366?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/e8e4zltinv57pl7bo7snudzi4?si=3bd01ce2fb1e4763)
 [<kbd>![Linkedin](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-belchior-52a248234/)
 
