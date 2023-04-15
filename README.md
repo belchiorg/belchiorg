@@ -22,3 +22,7 @@ Hi 👋, I am Guilherme Belchior     <img align=right src="https://gpvc.arturio.
 <kbd> ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) </kbd>
 <kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
 <kbd> ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white) </kbd>
+
+     
+ 
+![Snake animation](https://github.com/belchiorg/belchiorg/blob/output/github-contribution-grid-snake.svg)
